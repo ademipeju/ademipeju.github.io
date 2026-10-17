@@ -5,7 +5,7 @@ permalink: /team/
 author_profile: true
 ---
 
-Welcome to the Ogun sola BioAI Research Lab team page. Here we highlight our talented students and researchers working at the intersection of life sciences, data science, and artificial intelligence.
+Welcome to the Ogunsola BioAI Research Lab team page. Here we highlight our talented students and researchers working at the intersection of life sciences, data science, and artificial intelligence.
 
 ## Graduate & Undergraduate Researchers
 * **[Student Name]** — *Research Focus / Project Title*
