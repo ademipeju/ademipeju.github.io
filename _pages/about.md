@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the Ogunsola BioAI Research Lab website!
+ Welcome to the Ogunsola BioAI Research Lab website!
 
 I am O.A Ogunsola, an Assistant Lecturer in Biochemistry and Data Scientist based in Nigeria. My research sits at the intersection of life sciences and artificial intelligence, focusing on computer vision, deep learning, and computational drug discovery to advance point-of-care diagnostics and biological data science.
 
