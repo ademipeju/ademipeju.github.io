@@ -12,4 +12,4 @@ Welcome to the Ogunsola BioAI Research Lab team page. Here we highlight our tale
 * **[Student Name]** — *Research Focus / Project Title*
 
 ---
-*Interested in joining the lab? Feel free to reach out via email.*
+*Interested in joining our lab? Feel free to reach out via email.*
